@@ -58,4 +58,24 @@ sudo apt-get remove \
 	simple-scan \
 	thunderbird \
 	transmission-common \
-	transmission-gtk
+	transmission-gtk \
+	iagno \
+  	lightsoff \
+	four-in-a-row \
+	gnome-robots \
+	pegsolitaire \
+	gnome-2048 \
+	hitori \
+	gnome-klotski \
+	gnome-mines \
+	gnome-mahjongg \
+	gnome-sudoku \
+	quadrapassel \
+	swell-foop \
+	gnome-tetravex \
+	gnome-taquin \
+	aisleriot \
+	gnome-chess \
+	five-or-more \
+	gnome-nibbles \
+	tali
